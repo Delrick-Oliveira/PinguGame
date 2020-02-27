@@ -10,4 +10,4 @@ To slide the pingu slide down
 
 You can fast fall sliding down while in the air
 
-You recover fast from slide slide up with touchscreen or mouse
+You recover fast from slide sliding up with touchscreen or mouse
